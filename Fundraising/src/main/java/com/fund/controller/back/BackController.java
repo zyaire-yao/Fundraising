@@ -39,7 +39,7 @@ public class BackController {
 	 * @param model
 	 * @return
 	 */
-	@RequestMapping(value = "/getBMember")               
+	@RequestMapping(value = "/getBMember")
 	public String listFindBMember(Model model) {
 		List<Member> at = backServiceImpl.listFindMember();
 		model.addAttribute("all", at);
