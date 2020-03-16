@@ -37,7 +37,7 @@ public class BackController {
 	/**
 	 * 抓取所有會員資料
 	 * @param model
-	 * @return 
+	 * @return  
 	 */
 	@RequestMapping(value = "/getBMember")  
 	public String listFindBMember(Model model) {
