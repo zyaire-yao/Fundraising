@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.btn-cart {
+	background-color: transparent;
+	position: relative;
+}
+.btn-cart .badge {
+	position: absolute;
+	top:-1px;
+	right: -1px;
+}
+
+
+.dropdown-menu-right {
+	right: 0;
+	left: auto;
+}
+.jumbotron-bg {
+	background-size: cover;
+	background-position: center center;
+	height: 450px;
+}
+.bg-lighter {
+	background-color: rgba(255, 255, 255, .35);
+}
+.carousel-caption {
+	background-color: rgba(0, 0, 0, .6); /* 用RGB 來調整   .6讓他有些透明度*/
+}

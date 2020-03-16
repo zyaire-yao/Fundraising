@@ -1,0 +1,15 @@
+#box1{
+	margin-top: 80px;
+	margin-left: 50px;
+
+}
+
+#box {
+	margin-left: 50px;
+	background:rgba(0,0,0,0.6);
+	border-radius:1%;
+	font-family: 'Noto Sans TC', sans-serif;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	width: auto;
+}
